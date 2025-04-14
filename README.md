@@ -12,4 +12,4 @@
 - 📝 [Flash Notes](https://flash-notes.com/) - A tool to help with studying and memorization using flashcards
 
 📫 **Connect with me**
-[LinkedIn](https://www.linkedin.com/in/andres-ortega-202b22153/) | [GitHub](https://github.com/ZorroGuadaPavos)
+[LinkedIn](https://www.linkedin.com/in/andres-ortega-202b22153/) | [GitHub](https://github.com/0010aor) | [Discord](https://discord.gg/CDPHbQ3Ct5)
