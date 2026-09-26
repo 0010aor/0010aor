@@ -8,7 +8,7 @@
 - 🤝 Looking to collaborate on innovative open source projects
 
 📌 **My Projects**
-- 🎮 [EDHplay](https://edhplay.com/) - Multiplayer EDH/Commander game platform for Magic: The Gathering
+- 🎮 [EDHplay](https://edhplay.com/) - Multiplayer EDH/Commander game platform for Magic: The Gathering, used by 175K+ players
 - 📝 [Flash Notes](https://flash-notes.com/) - A tool to help with studying and memorization using flashcards
 - 🍽️ [Taste This](https://taste-this.com/) - Get dish recommendations at restaurants based on user reviews 🚧 Currently down — needs scraper update.
 
