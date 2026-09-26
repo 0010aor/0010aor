@@ -13,4 +13,4 @@
 - 🍽️ [Taste This](https://taste-this.com/) - Get dish recommendations at restaurants based on user reviews 🚧 Currently down — needs scraper update.
 
 📫 **Connect with me**
-[LinkedIn](https://www.linkedin.com/in/andres-ortega-202b22153/) | [GitHub](https://github.com/0010aor) | [Discord](https://discord.gg/CDPHbQ3Ct5)
+[Website](https://0010aor.github.io) | [LinkedIn](https://www.linkedin.com/in/andres-ortega-202b22153/) | [GitHub](https://github.com/0010aor) | [Discord](https://discord.gg/CDPHbQ3Ct5)
